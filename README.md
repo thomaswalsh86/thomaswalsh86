@@ -4,12 +4,14 @@ I’m a computer science student at Maynooth University. I enjoy building projec
 and learning new things
 
  ## Currently Learning
- - Data Structres
+ - Data Structures
  - Web Development
  - Cyber Security Fundementals
  - Computer Architecture
 ## Currently Use
 - Python
+- React
+- Typescript
 - Java
 - HTML
 - CSS
