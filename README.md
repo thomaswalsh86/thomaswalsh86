@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Thomas
   ## About Me
-I’m a computer science student at Maynooth University. I enjoy building projects 
+I’m a computer science student at Maynooth University. I enjoy building projects, messing around with new tools or libraries I find
 and learning new things
 
  ## Currently Learning
@@ -16,7 +16,7 @@ and learning new things
 - HTML
 - CSS
 - JS
-- C
+- C++
 
 <!---
 thomaswalsh86/thomaswalsh86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
